@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Application test">
+        <classes>
+            <class name="IPS.loginPageTest"></class>
+            <class name="IPS.homePageTest"></class>
+            <class name="IPS.PackageInputPageTest"></class>
+        </classes>
+    </test>
+</suite>
