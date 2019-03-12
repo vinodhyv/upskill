@@ -39,7 +39,7 @@
 
     <profiles>
         <profile>
-            <id>RegressionTest</id>
+            <id>RegressionTest1</id>
             <build>
                 <plugins>
                     <plugin>
